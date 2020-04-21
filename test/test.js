@@ -1,6 +1,6 @@
 const assert = require('assert');
 
-const add = require('../src/add');
+const add = require('../src/ad');
 
 const test = 0;
 
